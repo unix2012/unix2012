@@ -1,0 +1,22 @@
+
+    = [[top.png][我的笔记（头像）]] =
+
+ ==== 优雅源于简单的习惯 ====
+
+-----
+
+=== 简介 ===
+
+- 这是用VimWiki做的，简单，还有点笨拙。由于没有了交互，由原来的博客变成了笔记。
+- 但也只能这样了，与形式相比，内容更重要。
+
+=== 链接 ===
+
+- 电脑：[https://www.itiankong.com IT天空驱动] [http://www.winbaicai.com 大白菜] [http://www.maxdos.net/forum.php 迈思工作室] 
+- 读书：[http://www.zhihu.com/ 知乎] [http://www.douban.com 豆瓣] [http://www.jianshu.com 简书] 
+
+
+
+----
+
+%title 个人笔记
