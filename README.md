@@ -1,4 +1,4 @@
 unix2012
 ========
 
-我的VIMWIKI源码。
+我的个人主页VIMWIKI源码。
