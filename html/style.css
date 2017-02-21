@@ -1,6 +1,6 @@
 html {color: #000000;min-height: 100%;background-color: #E9E0D3;padding: 0;margin: 0;}
 body {max-width: 1200px;margin:2em 20em 2em 20em;font-family:font-family: "Lucida Grande", Lucida Sans Unicode, Hiragino Sans GB, Microsoft YaHei,Verdana, Aril, sans-serif;font-size:11pt;color:#c00000;line-height:160%}
-a:link {text-decoration:none}
+a:link {text-decoration:none;color:#0000E3}
 a:visited {text-decoration:none}
 a:hover {text-decoration:underline;color:#ff0000}
 input:focus, a:focus, button:focus {box-shadow: 0 0 3px #cb0;}
@@ -21,7 +21,7 @@ ul ul, ul ol, ol ol, ol ul {margin-top: 0.5em;margin-bottom: 0.5em;}
 li {margin: 0.3em auto;}
 ol, ul {margin-left: 1em;padding-left: 0.5em;}
 dt {font-weight: bold;}
-img {border: none;}
+img {border: none;vertical-align: top;}
 
 table {border-collapse: collapse;}
 th, td {border: 1px solid #ccc;padding: 0.3em 0.5em;background-color: #f0f0f0;}
