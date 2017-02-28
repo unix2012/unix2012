@@ -1,21 +1,28 @@
+%title 日精进
 
-    = [[top.png][我的笔记（头像）]] =
+    = 日精进 =
 
- ==== 优雅源于简单的习惯 ====
+ ==== —— 优雅源于简单的习惯 —— ====
 
 -----
 
-=== 简介 ===
+=== 缘起 ===
 
-- 这是用VimWiki做的，简单，还有点笨拙。由于没有了交互，由原来的博客变成了笔记。
-- 但也只能这样了，与形式相比，内容更重要。
+- 从2004年开始写博客，一直使用Bo-Blog1.7（文本版）。主要是因为服务器PHP不升级，所以无法支持新版本。
+- 最近在写博客时突然发生错误，导致整个博客文章都不见了。幸好我的备份习惯还算不错，最后只丢失了一篇文章。
+- 于是决定用VimWiki代替博客 —— 简陋，还有点笨拙。因为没有了交互，结果变成了笔记。
+- 要想美化和补足功能，还得使用jQuery和Bootstrap —— 可是已经没有精力学了。
+- 反正是自己做给自己的，就这样吧。
+- 与形式相比，内容更重要。
+
 
 === 链接 ===
 
 - 电脑：[https://www.itiankong.com IT天空驱动] [http://www.winbaicai.com 大白菜] [http://www.maxdos.net/forum.php 迈思工作室] 
-- 读书：[http://www.zhihu.com/ 知乎] [http://www.douban.com 豆瓣] [http://www.jianshu.com 简书] 
-
+- 读书：[http://www.qidian.com/ 起点中文] [http://chuangshi.qq.com/ 创世中文] [http://www.zongheng.com/ 纵横中文] [http://www.17k.com/ 17K小说]
+- 写作：[http://www.zhihu.com/ 知乎] [http://www.douban.com 豆瓣] [http://www.jianshu.com 简书] 
+- 娱乐：[http://www.mtime.com/ 时光网] [http://www.dahanghaiol.com/ 大航海时代]
+- 其它：[http://workflowy.com WorkFlowy] [http://www.appinn.com/ 小众软件] [http://www.yishimei.cn/network/319.html 亦是美网络] [http://www.shaoit.com/emeditor.html 殁漂遥]
 
 ----
 
-%title 个人笔记
