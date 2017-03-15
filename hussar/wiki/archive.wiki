@@ -1,0 +1,11 @@
+
+%title 那些花儿
+
+%template archive
+
+- [[web/tara|T-ARA]] 最受中国粉丝欢迎的韩国女团
+- [[web/girls|少女时代]] 韩国女团的巅峰，没有之一
+- [[web/apink|Apink]] 一群小清新……
+- [[web/exid|EXID]] 奇迹般崛起的女团
+- [[web/aoa|AOA]]  据说是集体身材指数最高的女团
+
