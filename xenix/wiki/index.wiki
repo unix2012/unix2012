@@ -1,0 +1,7 @@
+%title 那些花儿
+
+%template home
+
+[[index|首页]] | [[archive|那些花儿]] | [[list|事项列表]] | [[about|关于]]
+
+
