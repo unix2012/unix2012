@@ -15,7 +15,7 @@
 
 === 日志 ===
 
-KPT日志，即Keep、Problem、Try三部分组成。
+KPT日志，由Keep、Problem、Try三部分组成。
 
 - [[todo/todo_2001|2017年日志]]	
 
