@@ -1,7 +1,8 @@
-%title 那些花儿
+%title 我的工作间
 
 %template home
 
-[[index|首页]] | [[archive|那些花儿]] | [[list|事项列表]] | [[about|关于]]
+=== FTP ===
+- [ftp://gt:gt@10.106.27.1/ 常用软件] | [ftp://anonymous:anonymous@10.106.27.1/ 古塔FTP] | [ftp://fileftp:FILEFTP2013@10.104.8.141/ 工资文件上传]
 
-
+=== 链接 ===
