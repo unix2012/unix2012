@@ -2,7 +2,43 @@
 
 %template home
 
-=== FTP ===
-- [ftp://gt:gt@10.106.27.1/ 常用软件] | [ftp://anonymous:anonymous@10.106.27.1/ 古塔FTP] | [ftp://fileftp:FILEFTP2013@10.104.8.141/ 工资文件上传]
+[[#link|链接]]
 
-=== 链接 ===
+=== FTP ===
+- [[ftp://gt:gt@10.106.27.1/|常用软件]] | [[ftp://anonymous:anonymous@10.106.27.1/|古塔FTP]] | [[ftp://fileftp:FILEFTP2013@10.104.8.141/|工资文件上传]]
+
+= My tasks =
+  :todo-lists:
+== Home ==
+    - [ ] bathe my dog
+== Work ==
+    - [ ] beg for *pay rise*
+== Knitting club ==
+=== Knitting projects ===
+    - [ ] a *funny pig*
+    - [ ] a *scary dog*
+
+  [[Todo#funny pig]]
+
+  [[Todo#todo-lists]]
+
+  [[#pay rise]]
+
+== xxlpqaql ==
+:link:
+顶在戴顶戴顶戴顶戴
+  [[#todo-lists|kkkk]]
+ 在 大
+ 
+local
+{{local:../image/aa.jpg|kk.jpg|style="width:160px,height:120px"}}
+
+{{local:../image/aa.jpg}}
+
+file
+{{file:e:/web/hussar/html/image/aa.jpg|bbb.jpg}}
+
+file
+{{file:e:/web/hussar/html/as.jpg|as.jpg}}
+
+
