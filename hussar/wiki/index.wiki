@@ -28,17 +28,18 @@
 :link:
 顶在戴顶戴顶戴顶戴
   [[#todo-lists|kkkk]]
- 在 大
+ 在大在在大
  
 local
-{{local:../image/aa.jpg|kk.jpg|style="width:160px,height:120px"}}
+{{local:../html/image/aa.jpg|kkk0001|style="width:160px,height:120px"}}
 
-{{local:../image/aa.jpg}}
+{{local:../html/image/kkk0002.jpg|kkk0002}}
 
 file
 {{file:e:/web/hussar/html/image/aa.jpg|bbb.jpg}}
 
 file
 {{file:e:/web/hussar/html/as.jpg|as.jpg}}
+
 
 
