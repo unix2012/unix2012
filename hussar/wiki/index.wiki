@@ -18,6 +18,18 @@
     - [ ] a *funny pig*
     - [ ] a *scary dog*
 
+1. d d 
+   在在
+   - 在
+   - 在
+1. 在中
+2. 中中国
+3. 在在在
+4. 虽吕炽
+	   
+   在在在在
+   右右
+   
   [[Todo#funny pig]]
 
   [[Todo#todo-lists]]
@@ -31,15 +43,15 @@
  在大qqqqq在dddddd大
  
 local
-{{local:../html/image/aa.jpg|kkk0000a<F4>01|style="width:160px,height:120px"}}
+{{local:../html/image/aa.jpg|00001|style="width:160px,height:120px"}}
 
 {{local:../html/image/aa.jpg|kkk000002}}
 
-file
-{{file:e:/web/hussar/html/image/aa.jpg|bbb.jpg}}
+file<F4>
+{{file:../html/image/aa.jpg|bbb.jpg}}
 
 file
-{{file:e:/web/hussar/html/as.jpg|as.jpg}}
+{{file:../html/as.jpg|as.jpg}}
 
 
 
