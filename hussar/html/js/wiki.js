@@ -11,7 +11,6 @@ $(function(){
         $("a[href^='ftp://']").each(function(){
       this.target = "_blank";
     });
-
     // 替换表格样式
    $("table").addClass("table table-bordered table-striped table-hover");
 });

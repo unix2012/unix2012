@@ -2,56 +2,19 @@
 
 %template home
 
-[[#link|链接]]
+=== 网址 ===
 
-=== FTP ===
-- [[ftp://gt:gt@10.106.27.1/|常用软件]] | [[ftp://anonymous:anonymous@10.106.27.1/|古塔FTP]] | [[ftp://fileftp:FILEFTP2013@10.104.8.141/|工资文件上传]]
+- [http://10.106.27.1/ 古塔支行收藏夹] 
+- [ftp://gt:gt@10.106.27.1/ 常用软件] | [ftp://anonymous:anonymous@10.106.27.1/ 古塔FTP] | [ftp://fileftp:FILEFTP2013@10.104.8.141/ 工资文件上传]
 
-= My tasks =
-  :todo-lists:
-== Home ==
-    - [ ] bathe my dog
-== Work ==
-    - [ ] beg for *pay rise*
-== Knitting club ==
-=== Knitting projects ===
-    - [ ] a *funny pig*
-    - [ ] a *scary dog*
+=== 清单 ===
+_凡事必有优先级。一次只做一件事。_
 
-1. d d 
-   在在
-   - 在
-   - 在
-1. 在中
-2. 中中国
-3. 在在在
-4. 虽吕炽
-	   
-   在在在在
-   右右
-   
-  [[Todo#funny pig]]
+# [[time|周行事历]] 
+# [[list|常规事务]] 
+# [[todo|待办事项]] 
+# [[diary|工作日志]]
 
-  [[Todo#todo-lists]]
-
-  [[#pay rise]]
-
-== xxlpqaql ==
-:link:
-顶在戴顶戴顶戴顶戴
-  [[#todo-lists|kkkk]]
- 在大qqqqq在dddddd大
- 
-local
-{{local:../html/image/aa.jpg|00001|style="width:160px,height:120px"}}
-
-{{local:../html/image/aa.jpg|kkk000002}}
-
-file<F4>
-{{file:../html/image/aa.jpg|bbb.jpg}}
-
-file
-{{file:../html/as.jpg|as.jpg}}
-
+_注：1.收集。2.整理。3.计划。4.执行。5.修正。6.回顾_
 
 
