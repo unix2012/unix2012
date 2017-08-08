@@ -1,7 +1,7 @@
 
 %title T-ARA 朴孝敏
 
- === T-ARA：朴孝敏 ===
+ == T-ARA：朴孝敏 ==
 
 ----
 <center>[[../image/pxm.jpg|孝敏|width:401px;height:500px][../image/pxm.jpg]]</center>
