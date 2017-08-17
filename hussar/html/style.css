@@ -1,5 +1,5 @@
 html {color: #000000;min-height: 100%;background-color: #f3f4f6;padding: 0;margin: 0;}
-body {max-width:1200px;margin:5em 15em 5em 15em;font-family:Lucida Grande, Lucida Sans Unicode, Hiragino Sans GB, Microsoft YaHei,Verdana, Aril, sans-serif;font-size:12pt;color:#000000;line-height:160%}
+body {max-width:1200px;margin:5em 15em 5em 15em;font-family:Lucida Grande, Lucida Sans Unicode, Hiragino Sans GB, Microsoft YaHei,Verdana, Aril, sans-serif;font-size:11pt;color:#000000;line-height:160%}
 a:link {text-decoration:none;color:#0000E3}
 a:visited {text-decoration:none}
 a:hover {text-decoration:underline;color:#ff0000}
@@ -23,7 +23,7 @@ dt {font-weight: bold;}
 img {border: none;vertical-align: top;}
 
 table {border-collapse: collapse;}
-th, td {border: none;padding: 0.5em 1.5em}
+th, td {border:none;padding: 0.5em 1.5em;}
 th {background-color: #f0f0f0;}
 hr {border: none;height:1px;border-top: 1px solid #ccc;width: 100%;margin: 20px 0;}
 del {text-decoration: line-through;opacity: 0.6;color: #800080;}
@@ -41,7 +41,7 @@ iframe {position: relative;}
 
 .tocWrap {position: fixed; width: 200px;z-index: 100;top: 16%;right: 2.8%;display: none;}
 .toc {display: none;overflow: auto;overflow-x: hidden;border: 1px solid #F0C81E;border-radius: 0 0 1px 1px;color: #999;background: #0C1F2C;    padding: 12px;box-shadow: 0 1px 8px #000;}
-.tocWrap .toggler {text-align: center;font-size: 12pt;background: #F0C81E;border-radius: 2px 2px 0 0;color: #122;position: relative;z-index: 101;cursor: pointer;}
+.tocWrap .toggler {text-align: center;font-size: 11pt;background: #F0C81E;border-radius: 2px 2px 0 0;color: #122;position: relative;z-index: 101;cursor: pointer;}
 .toc ul {margin: 0;}
 .toc li {color: #eff;list-style-type: none;}
 .toc a {color: #eff;}
@@ -49,9 +49,7 @@ iframe {position: relative;}
 .justleft {text-align: left;}
 .justright {text-align: right;}
 .justcenter {text-align: center;}
-.center {margin-left: auto;margin-right: auto;}
-
-
+.center {margin-left: auto;margin-right: auto;border-collapse:collapse;border:1px solid #000;}
 
 /* classes for items of todo lists */
 /*
