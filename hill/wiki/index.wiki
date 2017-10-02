@@ -4,7 +4,7 @@
 
     = 日 精 进 =
 
- ==== —— 优雅源于简单的习惯 —— ====
+ ==== 优雅源于简单的习惯 ====
 
 -----
 === 缘起 ===
@@ -15,15 +15,14 @@
 
 === 内容 ===
 
-# [[note|笔记]]： 成长、工作和生活中的体会以及心得。
-# [[write|复盘]]： 对各类事件实践后的总结回顾过程。
-# [[todo|清单]]： 自己需要做的事、读的书，以及自己的目标。
-# [[diary|记事]]： 记载工作和生活中的一些大事小情……
+# [[personal|个人]]： 坚持是人生唯一的座右铭。
+# [[work|工作]]： 错误的发生源于节奏的失控。
+# [[life|生活]]： 岁月具有不动声色的力量。
 
 === 链接 ===
 
 - 电脑编程：[https://www.itiankong.com IT天空驱动] | [http://www.winbaicai.com 大白菜] | [http://www.maxdos.net/forum.php 迈思工作室] | [http://www.csdn.net CSDN] | [https://github.com GitHub] | [https://git.oschina.net/ 码云] | [http://www.oschina.net/ 开源中国社区] | [http://www.appinn.com 小众软件] | [http://www.yishimei.cn/network/319.html 亦是美网络] | [http://www.shaoit.com/emeditor.html 殁漂遥] | [http://workflowy.com WorkFlowy] 
 - 读书写作：[http://www.qidian.com/ 起点中文] | [http://chuangshi.qq.com/ 创世中文] | [http://www.zongheng.com/ 纵横中文] |  [http://www.17k.com/ 17K小说] 
 - 求知探索：[http://www.zhihu.com 知乎] |  [http://www.douban.com 豆瓣] | [http://www.jianshu.com 简书] | [https://sspai.com 少数派]
-- 娱乐其它：[http://www.dahanghaiol.com 大航海时代] | [http://www.mtime.com 时光网] |  [http://www.graphmovies.com 图解电影]
+- 娱乐其它：[http://www.dahanghaiol.com 大航海时代] | [http://www.mtime.com 时光网] |  [http://www.graphmovies.com 图解电影] | [http://www.dytt8.net/ 电影天堂] | [https://idol001.com/star/tara.html 爱豆网-TARA]
 
