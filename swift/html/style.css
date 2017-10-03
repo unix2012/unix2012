@@ -6,8 +6,8 @@ a:hover {text-decoration:underline;color:#ff0000}
 input:focus, a:focus, button:focus {box-shadow: 0 0 3px #cb0;}
 
 h1, h2, h3, h4, h5, h6 {line-height:1;font-family: Microsoft YaHei,Î¢ÈíÑÅºÚ;;margin:0;padding: 0.15em 0;}
-h1 {font-size: 1.6em;color: #f37;padding-bottom: 0.1em;margin-bottom: 0.5em;margin-top: 0;}
-h2 {font-size: 1.5em;color: #800040;margin-top: 1em;}
+h1 {font-size: 1.4em;color: #f37;padding-bottom: 0.1em;margin-bottom: 0.5em;margin-top: 0;}
+h2 {font-size: 1.3em;color: #800040;margin-top: 1em;}
 h3 {font-size: 1.22em;color: #0080ff;margin-top: 0.4em;margin-bottom: 0.4em;}
 h4 {font-size: 1.2em;color: #008040;margin-top: 0.4em;}
 h5 {font-size: 1.1em;color: #808000;}
@@ -16,6 +16,7 @@ h6 {font-size: 1.1em;color: #000000;}
 .typo p, .typo pre, .typo ul, .typo ol, .typo dl, .typo form, .typo hr {margin:1em 0 0.6em;}
 p, ul, li, table {margin: 0;padding: 0;}
 p, pre, blockquote, table, ul, ol, dl {margin: 0.3em 0 0.3em;}
+p {text-indent: 2em;}
 ul ul, ul ol, ol ol, ol ul {margin-top: 0.5em;margin-bottom: 0.5em;}
 li {margin: 0.3em auto;}
 ol, ul {margin-left: 1em;padding-left: 0.5em;}

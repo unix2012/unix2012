@@ -1,14 +1,53 @@
-%title 回翔的燕子
+%title 子鱼
 
-%template index
+== 1.<a name="todo">重要事项</a> ==
+_—— 凡事必有优先级。_
+=== 法律 ===
+- d
+- d
+-
+<div align=right><a href="#top">回顶部</a></div>
+
+----
+
+== 2.<a name="calendar">常规任务</a> ==
+_—— 一次只做一件事。_
+=== 日报 ===
+- 清理环境
+- 当日计划
+
+=== 月报 ===
+
+=== 季报 ===
+
+=== 半年报 ===
+
+=== 年报 ===
 
 
-=== 说几句 ===
+<div align=right><a href="#top">回顶部</a></div>
+
+----
+
+== 3.<a name="diary">工作日志</a> ==
+_—— 千金难买回头看。_
+
+=== 一月 ===
+- 2017-01-03
+-
+=== 二月 ===
+- 2017-02-03
+
+
+<div align=right><a href="#top">回顶部</a></div>
+
+----
+
+== <a name="about">关于</a> ==
 
 - 嗯，其实就是一个工作宅呆的地方……
 - 没什么要说的……
-
-=== 联系 ===
-
 - 网页是静态的，无法留言。真有要事就发伊妹儿……
-- E-mail： [mailto:gtfxln@abchina.com @古塔风险管理部]
+- E-mail： [mailto:glb@abc.com @管理部]
+
+<div align=right><a href="#top">回顶部</a></div>
