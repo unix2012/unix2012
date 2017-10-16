@@ -1,10 +1,6 @@
 %title 短简
 
- = 短 简 =
-
-<center><a href="#list">独自思考</a> | <a href="#calendar">修正复盘</a> | <a href="#diary">日常记事</a></center>
-
-----
+%template swift
 
 === 1.<a name="list">思考</a> === 
 
