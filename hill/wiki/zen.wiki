@@ -1,0 +1,16 @@
+%title 生活禅
+
+%template zen
+
+==== 禅 ====
+
+ _—— 嗯，其实只想做个极简主义者。_
+
+ - 叻。
+
+==== 正念 ====
+ _—— 念起即觉，觉之即无。_
+
+ - dddddddd
+ - adfasdfasdfasddd
+ - ddd
