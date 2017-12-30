@@ -8,7 +8,7 @@
 
 子弹日记的核心是快速记录，包括三个要点：主题、页码、子弹（简洁的短句和项目符号）。
 
-<left>[[../image/bullet.jpg|子弹笔记|width:717px;height:326px][../image/bullet.jpg]]</left>
+<left>[[../image/bulletnote.jpg|子弹笔记|width:717px;height:326px][../image/bulletnote.jpg]]</left>
 
 *一、主题和页码。*
 
