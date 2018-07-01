@@ -23,7 +23,7 @@
 
 === 链接 ===
 
-- 电脑编程：[https://www.itiankong.com IT天空驱动] | [http://www.csdn.net CSDN] | [https://github.com GitHub] | [https://git.oschina.net/ 码云] | [http://www.oschina.net/ 开源中国社区] | [http://www.appinn.com 小众软件] | [http://www.yishimei.cn/network/319.html 亦是美网络] | [https://www.laomoit.com/emeditor.html 殁漂遥] | [http://workflowy.com WorkFlowy] 
+- 电脑编程：[https://www.itiankong.com IT天空驱动] | [http://www.csdn.net CSDN] | [https://github.com GitHub] | [https://gitee.com/ 码云] | [http://www.oschina.net/ 开源中国社区] | [http://www.appinn.com 小众软件] | [http://www.yishimei.cn/network/319.html 亦是美网络] | [https://www.laomoit.com/emeditor.html 殁漂遥] | [http://workflowy.com WorkFlowy] 
 - 读书写作：[http://www.qidian.com/ 起点中文] | [http://chuangshi.qq.com/ 创世中文] | [http://www.zongheng.com/ 纵横中文] |  [http://www.17k.com/ 17K小说] | [http://www.zhihu.com 知乎] |  [http://www.douban.com 豆瓣] | [http://www.jianshu.com 简书] | [https://sspai.com 少数派]
 - 生活娱乐：[http://www.meishichina.com/ 美食天下] | [http://www.xiachufang.com/ 下厨房] | [http://www.dahanghaiol.com 大航海时代] | [http://www.mtime.com 时光网] |  [http://www.graphmovies.com 图解电影] | [http://www.dytt8.net/ 电影天堂] | [https://idol001.com/star/tara.html 爱豆网-TARA]
 
